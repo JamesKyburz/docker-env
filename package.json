@@ -1,0 +1,22 @@
+{
+  "name": "docker-env",
+  "description": "setup docker environment for node",
+  "keywords": "docker container process.env environment",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/docker-env.git"
+  },
+  "author": {
+    "name": "James Kyburz",
+    "email": "james.kyburz@gmail.com"
+  },
+  "main": "index.js",
+  "version": "1.0.0",
+  "scripts": {
+    "prepublish": "standard"
+  },
+  "devDependencies": {
+    "standard": "^5.3.1"
+  },
+  "license": "MIT"
+}
